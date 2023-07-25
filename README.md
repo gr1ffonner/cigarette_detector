@@ -1,4 +1,3 @@
-
 # Cigarette Detector
 
 ![Cigarette Detector](https://github.com/gr1ffonner/cigarette_detector/assets/112549266/f9745bb6-193d-4843-9660-ad9f1d2b7cf5)
@@ -62,7 +61,11 @@ There are three main scripts provided to use the Cigarette Detector:
     ```
     The result will be shown as video with bounding boxes.
    
-    https://github.com/gr1ffonner/cigarette_detector/assets/112549266/5f22a106-a555-4ec4-9b6d-b1d2c6b377bd
+   https://github.com/gr1ffonner/cigarette_detector/assets/112549266/b4c7d126-6ff3-42fb-9ec8-b782ffb271c0
+
+
+
+
     
 
 
